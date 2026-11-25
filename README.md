@@ -1,6 +1,6 @@
 # 龙虎榜 DEMO · 销售运营数据看板（已脱敏）
 
-> **在线演示**：https://{{OWNER}}.github.io/longhu-board-demo/
+> **在线演示**：https://huangshiwu478-debug.github.io/longhu-board-demo/
 >
 > ⚠️ 本项目**全部数据均为程序虚构生成**，并经过脱敏处理，**不涉及任何原公司敏感数据，仅用作展示**。
 
